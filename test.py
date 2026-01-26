@@ -13,6 +13,7 @@ while True:
     elif operator == "-":
         result = num1 - num2
         print("Result:", result)
+	#UPDATED NANI BRUH!
 
     elif operator == "*":
         result = num1 * num2
