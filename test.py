@@ -3,7 +3,7 @@ print("Simple Calculator")
 while True:
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
-
+# aloyloy ni
     operator = input("Enter an operator (+, -, *, /): ")
 # nag buhat nako schwa!
     if operator == "+":
