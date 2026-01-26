@@ -5,7 +5,7 @@ while True:
     num2 = float(input("Enter the second number: "))
 
     operator = input("Enter an operator (+, -, *, /): ")
-
+# nag buhat nako schwa!
     if operator == "+":
         result = num1 + num2
         print("Result:", result)
